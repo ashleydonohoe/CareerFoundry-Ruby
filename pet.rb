@@ -1,6 +1,6 @@
 # The self keyword in instance methods refers to the specific class instance, or object, being called on.
 #Class methods use the self keyword and only work on the class, rather than on instances of the class.
-#Inheritance
+#Inheritance refers to a child of a particular class inheriting the particular class's characteristics and methods. The less than sign, or <, is used to indicate inheritance. For example, when declaring a Cat class that is a child of a pet Class, you'd use Cat < Pet in the class declaration.
 
 class Pet
 	attr_reader :color, :breed
