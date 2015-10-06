@@ -43,3 +43,6 @@ puts "Is our cat hungry now?"
 kitty.hungry?
 puts "Our cat can make noise"
 kitty.speak
+
+A class in Ruby is like a blueprint for the characteristics and functions of an object, such as a cat's color and sound it makes, or a car's model and ability to drive. 
+An instance, on the other hand, is an object created of a particular class using the "new" method, and it inherits the characteristics and functions given to that class. 
